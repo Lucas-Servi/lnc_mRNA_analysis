@@ -1,0 +1,102 @@
+GO_ID,Name,Namespace,FDR,Study_count,Pop_count
+GO:0005634,nucleus,CC,5.626572901695548e-11,724,8160
+GO:0050789,regulation of biological process,BP,1.931944186293523e-10,350,3409
+GO:0005515,protein binding,MF,1.931944186293523e-10,462,4801
+GO:0065007,biological regulation,BP,9.47164032511169e-10,358,3555
+GO:0005488,binding,MF,2.072668712808409e-09,596,6621
+GO:0008150,biological_process,BP,6.424132281553063e-08,841,10088
+GO:0019222,regulation of metabolic process,BP,1.979483199728509e-07,198,1794
+GO:0003674,molecular_function,MF,1.979483199728509e-07,841,10146
+GO:0050794,regulation of cellular process,BP,2.0880505581610323e-07,292,2914
+GO:0060255,regulation of macromolecule metabolic process,BP,1.8003551223007935e-06,168,1503
+GO:0005737,cytoplasm,CC,1.8541097330316286e-06,316,3273
+GO:0000398,"mRNA splicing, via spliceosome",BP,7.118840524239864e-06,21,71
+GO:0010468,regulation of gene expression,BP,1.0585596196314019e-05,152,1367
+GO:0010556,regulation of macromolecule biosynthetic process,BP,1.108367681282486e-05,156,1410
+GO:0009889,regulation of biosynthetic process,BP,1.7531547703193988e-05,167,1550
+GO:0050896,response to stimulus,BP,5.344651819175001e-05,375,4142
+GO:0048518,positive regulation of biological process,BP,6.771652387871793e-05,101,840
+GO:0009987,cellular process,BP,0.0001285227035546246,585,6954
+GO:0043229,intracellular organelle,CC,0.00012872083242145967,1205,15761
+GO:0043226,organelle,CC,0.0001620991583935414,1205,15768
+GO:0006950,response to stress,BP,0.0001867615163770002,259,2732
+GO:0043231,intracellular membrane-bounded organelle,CC,0.00020430821090985227,1193,15608
+GO:0043227,membrane-bounded organelle,CC,0.00022461951334597325,1193,15615
+GO:0006397,mRNA processing,BP,0.0002475672853138714,27,135
+GO:0009579,thylakoid,CC,0.00047506125530682135,5,351
+GO:0140168,nuclear ribonucleoprotein granule,CC,0.0005527592200043828,17,65
+GO:0010629,negative regulation of gene expression,BP,0.0006194658210566309,38,236
+GO:0048578,"positive regulation of long-day photoperiodism, flowering",BP,0.0006246067071663062,7,11
+GO:0000375,"RNA splicing, via transesterification reactions",BP,0.0007343028039835442,21,96
+GO:0000377,"RNA splicing, via transesterification reactions with bulged adenosine as nucleophile",BP,0.0007343028039835442,21,96
+GO:0040029,epigenetic regulation of gene expression,BP,0.000794095136414723,27,145
+GO:0016607,nuclear speck,CC,0.000794095136414723,15,54
+GO:0010558,negative regulation of macromolecule biosynthetic process,BP,0.000870994995473219,54,395
+GO:0050793,regulation of developmental process,BP,0.001057237239364016,88,756
+GO:0008380,RNA splicing,BP,0.0010776467804422289,27,148
+GO:0110165,cellular anatomical structure,CC,0.0012031746362635464,1429,19346
+GO:0009890,negative regulation of biosynthetic process,BP,0.001296116915279693,55,413
+GO:0010605,negative regulation of macromolecule metabolic process,BP,0.001296116915279693,57,433
+GO:0016604,nuclear body,CC,0.001296116915279693,20,93
+GO:0140096,"catalytic activity, acting on a protein",MF,0.0014241337336738536,112,1038
+GO:0009892,negative regulation of metabolic process,BP,0.0016662661595924536,61,481
+GO:0006338,chromatin remodeling,BP,0.0021288948752889647,29,169
+GO:0002376,immune system process,BP,0.0021288948752889647,31,190
+GO:0042170,plastid membrane,CC,0.00294717351881169,11,453
+GO:0099080,supramolecular complex,CC,0.003064445720417875,47,346
+GO:0048522,positive regulation of cellular process,BP,0.003235196818154698,72,610
+GO:0009056,catabolic process,BP,0.003266737239861188,68,567
+GO:2000241,regulation of reproductive process,BP,0.003266737239861188,33,213
+GO:0010604,positive regulation of macromolecule metabolic process,BP,0.0033282578937838844,44,319
+GO:0051716,cellular response to stimulus,BP,0.0033282578937838844,118,1130
+GO:0005776,autophagosome,CC,0.0033282578937838844,9,24
+GO:0016071,mRNA metabolic process,BP,0.0033696197864946905,32,204
+GO:0005575,cellular_component,CC,0.0033696197864946905,1433,19467
+GO:0070920,regulation of regulatory ncRNA processing,BP,0.003531647405880636,4,4
+GO:0080090,regulation of primary metabolic process,BP,0.003531647405880636,137,1360
+GO:0007165,signal transduction,BP,0.006369208410162691,86,780
+GO:0035770,ribonucleoprotein granule,CC,0.008794977753381273,33,225
+GO:0009893,positive regulation of metabolic process,BP,0.00950223476919547,50,398
+GO:0006325,chromatin organization,BP,0.010202161455563208,29,189
+GO:0033554,cellular response to stress,BP,0.010202161455563208,92,863
+GO:0009534,chloroplast thylakoid,CC,0.010202161455563208,3,230
+GO:0031976,plastid thylakoid,CC,0.010202161455563208,3,230
+GO:0055035,plastid thylakoid membrane,CC,0.010320047039105955,7,332
+GO:0034357,photosynthetic membrane,CC,0.01070647830581435,8,353
+GO:0042651,thylakoid membrane,CC,0.01070647830581435,8,353
+GO:0045814,"negative regulation of gene expression, epigenetic",BP,0.012396425797856695,18,95
+GO:2000028,"regulation of photoperiodism, flowering",BP,0.012396425797856695,18,95
+GO:0048519,negative regulation of biological process,BP,0.013082180776162695,95,905
+GO:0009535,chloroplast thylakoid membrane,CC,0.013082180776162695,7,327
+GO:0098542,defense response to other organism,BP,0.014945179911405185,31,214
+GO:0048586,"regulation of long-day photoperiodism, flowering",BP,0.01747602142905627,9,30
+GO:0019219,regulation of nucleobase-containing compound metabolic process,BP,0.018069385061346786,113,1128
+GO:0048580,regulation of post-embryonic development,BP,0.021285190769680492,46,370
+GO:0009909,regulation of flower development,BP,0.021285190769680492,23,143
+GO:0048831,regulation of shoot system development,BP,0.021285190769680492,24,153
+GO:0048582,positive regulation of post-embryonic development,BP,0.02305426123380622,17,92
+GO:0051179,localization,BP,0.0242445037915392,111,1113
+GO:0098803,respiratory chain complex,CC,0.0242445037915392,0,119
+GO:0036094,small molecule binding,MF,0.025843918924807793,90,870
+GO:0048523,negative regulation of cellular process,BP,0.027871692968198986,75,696
+GO:0005774,vacuolar membrane,CC,0.027871692968198986,23,147
+GO:0051252,regulation of RNA metabolic process,BP,0.029064074784466664,107,1073
+GO:1904292,regulation of ERAD pathway,BP,0.032674585933853355,3,3
+GO:0045911,positive regulation of DNA recombination,BP,0.032674585933853355,3,3
+GO:2000026,regulation of multicellular organismal development,BP,0.03353121167830251,46,380
+GO:0044238,primary metabolic process,BP,0.03499215955901786,256,2947
+GO:0048583,regulation of response to stimulus,BP,0.035290387326902685,80,760
+GO:0006955,immune response,BP,0.03601368941713583,22,141
+GO:0051240,positive regulation of multicellular organismal process,BP,0.03861876695329635,18,106
+GO:0045087,innate immune response,BP,0.03863577580541385,21,132
+GO:0009063,amino acid catabolic process,BP,0.03863577580541385,10,41
+GO:0006810,transport,BP,0.03863577580541385,96,950
+GO:0009705,plant-type vacuole membrane,CC,0.04154189207988623,18,107
+GO:0005829,cytosol,CC,0.041623467787837834,185,2053
+GO:0005773,vacuole,CC,0.044186483601919,88,864
+GO:0002757,immune response-activating signaling pathway,BP,0.044621628709489075,10,42
+GO:0002764,immune response-regulating signaling pathway,BP,0.044621628709489075,10,42
+GO:0140546,defense response to symbiont,BP,0.045486119079252076,26,179
+GO:0006355,regulation of DNA-templated transcription,BP,0.04769833588126605,102,1032
+GO:2001141,regulation of RNA biosynthetic process,BP,0.04873124425672223,102,1035
+GO:0051234,establishment of localization,BP,0.04949830219743181,99,1000
